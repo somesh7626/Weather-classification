@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Weather Classification using ML</title>
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: auto;">
+
 
   <h1>🌦️ Weather Classification using Machine Learning</h1>
   <p>This project presents a complete machine learning pipeline for <strong>classifying weather conditions based on historical data</strong>. It includes <strong>data preprocessing</strong>, <strong>exploratory data analysis (EDA)</strong>, <strong>feature engineering</strong>, <strong>model training</strong>, <strong>evaluation</strong>, and <strong>visualization</strong>, with <strong>XGBoost achieving the highest accuracy of 95%</strong>.</p>
